@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-GameLogic-Class: GameLogic
-Main-Class: GameLogic
-
